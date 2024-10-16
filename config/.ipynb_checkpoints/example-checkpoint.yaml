@@ -1,0 +1,18 @@
+exp_name: 'predict'
+
+### output path
+log_dir: 'log/'
+pred_dir: 'predict/'
+model_dir: 'model/'
+
+### Parameter
+use_gpu: False             #
+use_cpu: 1                # Number of cores to use for data loader
+display_step: 2           # Std output update rate during training
+test_step: 20             # Test per n step
+learning_rate: 0.001     #
+max_step: 20            # Number of steps to train
+batch_size: 20            #
+first_n_byte: 2000000     # First N bytes of a PE file as the input of MalConv (defualt: 2 million)
+window_size: 500          # Kernel size & stride for Malconv (defualt : 500)
+sample_cnt: 1             # Number of data sampled for trianing (defualt 1 = all)

@@ -18,7 +18,7 @@ class MalConv(nn.Module):
         self.fc_2 = nn.Linear(128,1)
 
         self.sigmoid = nn.Sigmoid()
-        #self.softmax = nn.Softmax()
+        self.softmax = nn.Softmax()
         
 
     def forward(self,x):
@@ -36,5 +36,6 @@ class MalConv(nn.Module):
         x = self.fc_1(x)
         x = self.fc_2(x)
         #x = self.sigmoid(x)
+        x = self.softmax(x)
 
         return x
