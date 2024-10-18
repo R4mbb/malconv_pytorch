@@ -1,3 +1,5 @@
+# malware 개수에 맞춰서 goodware를 넣어준다.
+# 경로랑 개수만 수정하면 됨.
 import os
 import shutil
 

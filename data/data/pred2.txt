@@ -1,0 +1,1732 @@
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.0145903], dtype=float32)]]}
+mal : 0
+
+tensor([ 78,  91, 145,  ...,   5,  10,  98])
+{'pred': [[array([0.324226], dtype=float32)]]}
+mal : 0
+
+tensor([ 78,  91,  81,  ...,  99, 100, 101])
+{'pred': [[array([0.6571453], dtype=float32)]]}
+mal : 0
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.07842173], dtype=float32)]]}
+mal : 0
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9890997], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99649745], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9889753], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9927982], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8991235], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.83370304], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9827375], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 105,   1])
+{'pred': [[array([0.9937702], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97322977], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9861835], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99545884], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 181,  37, 249])
+{'pred': [[array([0.9992999], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99366945], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999832], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99687755], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9922356], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9958331], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996014], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9517202], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9882555], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9970061], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9470291], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98830426], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9935422], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9940509], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9570004], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99596643], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98651737], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.8173799], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9943083], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9938286], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 138,  69,  37])
+{'pred': [[array([0.9988462], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9892424], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9654641], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9464543], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 191,  35,  48])
+{'pred': [[array([0.9859723], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.843602], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99066484], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 133,  37, 217])
+{'pred': [[array([0.99792755], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.91892105], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  37,  49, 138])
+{'pred': [[array([0.98384815], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.90542895], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9900338], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999826], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97248435], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9433092], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1,   1, 142])
+{'pred': [[array([0.9550119], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9402702], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9052719], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9907449], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9660696], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9679348], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.9997489], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 114, 195,  77])
+{'pred': [[array([0.9676683], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.80838406], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  78, 238, 150])
+{'pred': [[array([0.96768683], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9952813], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.99088484], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9697092], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98930526], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96805423], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9473868], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.87321264], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9958293], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99570686], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9983026], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98756903], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9218519], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9610603], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97327065], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999989], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 138,  69])
+{'pred': [[array([0.9991737], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.93954635], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96348596], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 142,  29, 228])
+{'pred': [[array([0.54263544], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.99485105], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99277765], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99625313], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9855563], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9586912], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95465666], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  24, 136, 227])
+{'pred': [[array([0.98644733], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9586856], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.896361], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97994435], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.72930527], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 256,   1,   2])
+{'pred': [[array([0.8759201], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.990999], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9472254], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.94885933], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.80834574], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9590804], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 124,  16, 221])
+{'pred': [[array([0.99876344], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95759165], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9837314], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99052507], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.49297613], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,  13, 228, 182])
+{'pred': [[array([0.93490595], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9867241], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.991495], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9894499], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9964759], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9481426], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999864], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.8056628], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9849375], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99510443], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.94550306], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9613296], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9969446], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.7987308], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.99378306], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9936935], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99043626], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9351524], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1,   1,  69])
+{'pred': [[array([0.7140292], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  86, 124, 119])
+{'pred': [[array([0.97341263], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9879099], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.94350153], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.898636], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  1,  1,  1])
+{'pred': [[array([0.24218683], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9486672], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9032878], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.7424047], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9015147], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.69572866], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98428303], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9959363], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.992823], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97799677], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96677935], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9986639], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9600172], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9623007], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9919546], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95325273], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  89,  81,  66])
+{'pred': [[array([0.99789304], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9989698], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9903306], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9938344], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  19, 188,  52])
+{'pred': [[array([0.51903564], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.8374988], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.478727], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.8490891], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97510004], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.83786047], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98471326], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9948127], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98349345], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99997294], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9935163], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9942596], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9887848], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9770339], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9734788], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 135,  49,  90])
+{'pred': [[array([0.99457765], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  21, 157, 201])
+{'pred': [[array([0.9833106], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9800294], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99998474], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1,   6,   1])
+{'pred': [[array([0.94306326], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  65,  83, 163])
+{'pred': [[array([0.99683607], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ..., 27, 62, 90])
+{'pred': [[array([0.96876365], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99984074], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 140, 173,  37])
+{'pred': [[array([0.9915509], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.85892344], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 205, 143,  94])
+{'pred': [[array([0.99814284], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9942984], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.984209], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9403252], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9943327], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9937168], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9905633], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99375737], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.951208], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9932962], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9879469], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8426788], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97305346], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.93584305], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9386623], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  50, 247, 236])
+{'pred': [[array([0.99502796], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.87804604], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  1,  1,  1])
+{'pred': [[array([0.96964765], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98454684], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 256, 129, 126])
+{'pred': [[array([0.5793534], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  69,  37,  17])
+{'pred': [[array([0.9453888], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8816344], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.37799573], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9515402], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9606398], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9954882], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96258014], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999881], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95478344], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9867294], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 118,  13, 138])
+{'pred': [[array([0.99932194], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9845276], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9071366], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9896339], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.81148916], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 209, 159,  55])
+{'pred': [[array([0.9997602], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9845376], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99613214], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9846587], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9837181], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.5970875], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9514093], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999989], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ...,  44,  17, 139])
+{'pred': [[array([0.9865676], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9709881], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996717], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.7929286], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96353644], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 100,   1])
+{'pred': [[array([0.99068016], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9666821], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98713917], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  29,  25, 145])
+{'pred': [[array([0.28063962], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9972771], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9852232], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9912412], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99997747], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9708858], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9980888], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8998079], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99998355], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8775832], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.8092024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.90835917], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  97,  ...,  99, 194,  93])
+{'pred': [[array([0.80427235], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.3514009], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9937909], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9964395], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.47774217], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.9996761], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8725597], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.96769553], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9984664], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 105,   1])
+{'pred': [[array([0.9935342], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9427639], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9183723], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8980136], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98245853], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95481825], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.94300634], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99998975], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9925141], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98660827], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999864], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  10, 211,   9])
+{'pred': [[array([0.96181095], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 228,  83, 102])
+{'pred': [[array([0.92762804], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 179,  63, 148])
+{'pred': [[array([0.99310124], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1,   1,   1])
+{'pred': [[array([0.97783023], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9936341], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99644715], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9936008], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98971444], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 216,  73,  79])
+{'pred': [[array([0.966276], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99446154], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ...,  95, 194, 219])
+{'pred': [[array([0.9770643], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.995983], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8843439], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1,   1,   1])
+{'pred': [[array([0.9385861], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9902982], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.97756994], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8433893], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99866784], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  76,   5, 129])
+{'pred': [[array([0.97785085], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.993305], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9085007], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9776949], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98893213], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9871164], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.92889166], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9916216], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9952893], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  1,  1,  1])
+{'pred': [[array([0.24497928], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.918421], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98008156], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98617655], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ..., 252,   4, 116])
+{'pred': [[array([0.3303659], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99695385], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99380434], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9918317], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 100,   1])
+{'pred': [[array([0.99081856], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9701515], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 70,  ...,  0,  0,  0])
+{'pred': [[array([0.79167986], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98761743], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9910591], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 105,   1])
+{'pred': [[array([0.9938775], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99844295], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.990853], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9303393], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99093646], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 121,  50, 202])
+{'pred': [[array([0.9913351], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9931545], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9190889], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.97127616], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.7703398], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95316905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9462146], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 199, 128,  79])
+{'pred': [[array([0.964622], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9946307], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.960483], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  29, 234,  14])
+{'pred': [[array([0.99901295], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  24, 256,  65])
+{'pred': [[array([0.9819395], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9942008], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9534326], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8363876], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97217643], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9608115], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9440029], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 119, 246, 156])
+{'pred': [[array([0.9937057], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91,  81,  ..., 157,  46, 252])
+{'pred': [[array([0.9844283], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.82504433], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9335153], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9387772], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.69517195], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9965773], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9895571], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9445602], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9466497], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97784185], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98846066], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 142, 149,  37])
+{'pred': [[array([0.9886495], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9946465], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9897628], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.99001455], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9243634], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.99179417], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999989], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 103, 192, 244])
+{'pred': [[array([0.9990075], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8486473], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.97364104], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9435593], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.91448355], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 125,  81, 241])
+{'pred': [[array([0.98949873], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.995805], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9287837], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9968832], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9989103], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98278606], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.53849745], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9868781], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.997649], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9930118], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9792078], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.94930214], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.75713027], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.68241537], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.5806535], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9996024], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9479927], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9805563], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.417712], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99469596], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 171,  37,  59])
+{'pred': [[array([0.9812951], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9903528], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9930668], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.47041142], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9950348], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9964095], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9204771], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9698286], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.8964982], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9880882], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95561856], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9606358], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.9901424], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999905], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.7062705], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9521367], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9945476], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9964245], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.936532], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   9, 119,  76])
+{'pred': [[array([0.97602105], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  37, 245,   1])
+{'pred': [[array([0.99927944], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95074546], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9552412], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.993001], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.76541054], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9937417], dtype=float32)]]}
+mal : 1
+
+tensor([78, 91, 81,  ...,  0,  0,  0])
+{'pred': [[array([0.99972826], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9927644], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.86052495], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9813209], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9945252], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9814879], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,  67,  20, 162])
+{'pred': [[array([0.8420285], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.9867785], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99764293], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9320471], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95969033], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   1, 103, 145])
+{'pred': [[array([0.54223806], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 243, 100,  97])
+{'pred': [[array([0.97274214], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.8388213], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 182, 151,  57])
+{'pred': [[array([0.9716259], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 104, 102,  72])
+{'pred': [[array([0.98301136], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99127835], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98698074], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9923228], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.98957705], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.93512666], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 205,  12, 217])
+{'pred': [[array([0.98551744], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ..., 166,  69, 235])
+{'pred': [[array([0.96287996], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 129,  ...,   0,   0,   0])
+{'pred': [[array([0.98680776], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99999034], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9476638], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ..., 120, 127, 239])
+{'pred': [[array([0.5448352], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.95297176], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9866968], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9927979], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.98787504], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9793402], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9919145], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9999726], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.99427706], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9596013], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 121,  ...,   0,   0,   0])
+{'pred': [[array([0.92707413], dtype=float32)]]}
+mal : 1
+
+tensor([ 78,  91, 145,  ...,   0,   0,   0])
+{'pred': [[array([0.9853499], dtype=float32)]]}
+mal : 1
+

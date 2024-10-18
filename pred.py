@@ -1,3 +1,4 @@
+import os
 import torch
 import torch.nn as nn
 import numpy as np
@@ -10,10 +11,9 @@ model.eval()
 
 first_n_byte = 2000000
 window_size = 500
-file_path = 'data/valid/6BEA57FB8DFB41779AE842E8B3529933RUNTIMEDEVICEINSTALL74FEAF2D9C8B886EF65CBECFB0370840'
+file_path = 'data/test/'
 history = {}
 history['pred'] = []
-
 
 sigmoid = nn.Sigmoid()
 
